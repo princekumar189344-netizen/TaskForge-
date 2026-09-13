@@ -1,6 +1,6 @@
 # TaskForge
 
-taskForge is a simple study planner that I made while learning web development.
+TaskForge is a simple study planner that I made while learning web development.
 I wanted to make something useful for studying intead of making only small practice projects.
 With TaskForge, I can add my study tasks, use a timer, check my progress, and keep my subjects organized.
 
